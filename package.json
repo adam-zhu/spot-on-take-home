@@ -1,0 +1,31 @@
+{
+  "name": "react-hooks-examples",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
+    "react-scripts": "^5.0.0",
+    "sass": "^1.49.0",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "api": "npx json-server --watch db.json --port 3001",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "React Hooks in Depth",
+      "isCompleted": false,
+      "isUrgent": false
+    },
+    {
+      "id": 2,
+      "text": "Write Articles @ Medium",
+      "isCompleted": false,
+      "isUrgent": false
+    },
+    {
+      "id": 3,
+      "text": "Share article at Reddit",
+      "isCompleted": false,
+      "isUrgent": false
+    },
+    {
+      "id": "77c15d0c-f840-4e35-b489-983d90bc2dad",
+      "text": "new task",
+      "isCompleted": false,
+      "isUrgent": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "isAdmin": false
+    }
+  ],
+  "theme": {
+    "headerText": "This is header text!",
+    "footerText": "This is footer text!",
+    "logoHref": "https://ih1.redbubble.net/image.988917465.8906/flat,128x128,075,t-pad,128x128,f8f8f8.jpg"
+  }
+}
